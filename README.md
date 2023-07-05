@@ -1,1 +1,1 @@
-# .github
+# CUHK(SZ) Software Engineering Research Group
